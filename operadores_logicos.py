@@ -16,3 +16,5 @@ y= False and True
 print("el resultado de operar con and es", y)
 
 #ejemplo 3: operador or 
+y = False or False
+print ("el resultado de operar con and es", y)
