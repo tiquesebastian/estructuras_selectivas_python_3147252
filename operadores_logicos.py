@@ -18,3 +18,19 @@ print("el resultado de operar con and es", y)
 #ejemplo 3: operador or 
 y = False or False
 print ("el resultado de operar con and es", y)
+
+'''
+jerarquia operadores 
+(logicos inclusive)
+1. ()
+2. **
+3. *,/,%,
+4. +,-
+5. <, >, <=, >=, ==,!=
+6. not
+7. and
+8. or  
+
+'''
+y = False and not True or False
+print ("el resultado de operar jerarquia de operadores es", y)
