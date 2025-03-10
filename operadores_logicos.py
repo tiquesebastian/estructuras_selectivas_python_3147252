@@ -10,3 +10,7 @@ acorde a las tablas de verdad
 #ejemplo 1: operador not 
 y = not True 
 print("el resultado de operar con not es", y)
+
+#ejemplo 2: operador and 
+y= True and True 
+print("el resultado de operar con and es", y)
